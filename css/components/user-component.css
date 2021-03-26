@@ -52,3 +52,23 @@
     margin-bottom: 10px;
     display: block;
 }
+
+.user-component__text {
+    position: relative;
+}
+
+.user-component__subtitle__dot {
+    width: 15px;
+    height: 15px;
+    color: tomato;
+    display: flex;
+    position: absolute;
+    border: 1.5px solid tomato;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    right: -25px;
+    bottom: -2px;
+    font-size: 15px;
+    font-weight: 600;
+}

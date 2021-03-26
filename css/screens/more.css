@@ -1,0 +1,22 @@
+.more-screen .icon-grid {
+    margin-top: 35px;
+}
+
+.more-suggestions {
+    margin-top: 40px;
+    border-top: var(--main-border);
+    padding-top: 40px;
+}
+
+.more-suggestions__title {
+    margin-bottom: 30px;
+}
+
+.more-suggestions__icon-image img {
+    width: 55px;
+    height: 55px;
+}
+
+.user-component__column i {
+    color: black;
+}
